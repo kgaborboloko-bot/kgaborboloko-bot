@@ -23,5 +23,11 @@ Here are some ideas to get you started:
 - Machine Learning Fundementals
 - Improving my problem-solving and analytical thinking
 
+💬Tools I Use:
+- Languages: Python, R, SQL, PowerBI
+- Databases: MySQL, Oracle, Neo4j
+- Skills: Data Cleaning, Exploratory Data Analysis, Machine Learning
+  I am always learning and expanding my toolkit as I grow in Data Science
+  
 ⚡Fun Fact:
 - I did not expect to enjoy working with data this much, but now I actually like the challenge of find out what the data is trying to say and what the data is able to do
