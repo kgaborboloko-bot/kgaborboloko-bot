@@ -12,16 +12,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ✨About me:
-I am a third year Information Technology student and I specialize in Data Science. The main goal is to become a Data Scientist as i enjoy solving problems, working with data and discovering patterns.
+- I am a third year Information Technology student and I specialize in Data Science. The main goal is to become a Data Scientist as i enjoy solving problems, working with data and discovering patterns.
 
 🔭Currently Working On:
-I am currently working on beginner friendly data science projects
-Exploring real-world datasets and improving my data cleaning skills
+- I am currently working on beginner friendly data science projects
+- Exploring real-world datasets and improving my data cleaning skills
 
 🌱Currently Learning:
-Data Analysis on R studio and Microsoft PowerBI
-Machine Learning Fundementals
-Improving my problem-solving and analytical thinking
+- Data Analysis on R studio and Microsoft PowerBI
+- Machine Learning Fundementals
+- Improving my problem-solving and analytical thinking
 
 ⚡Fun Fact:
-i did not expect to enjoy working with data this much, but now I actually like the challenge of find out what the data is trying to say and what the data is able to do
+- I did not expect to enjoy working with data this much, but now I actually like the challenge of find out what the data is trying to say and what the data is able to do
